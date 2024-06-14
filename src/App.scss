@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  // border: '1px solid red';
+}
+
+.ContentView {
+  position: relative;
+  padding-top: 60px;
+  transition: padding-left ease-in-out 500ms;
+  width: 100%;
+  height: 100%;
+  > div {
+    color: red;
+  }
+}
+
+.htmlSummaryElement {
+  img {
+    height: 70px !important;
+  }
+  height: 80px;
+  overflow-y: hidden;
+}

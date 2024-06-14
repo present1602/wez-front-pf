@@ -1,0 +1,17 @@
+.public-DraftEditor-content {
+  max-height: 720px;
+  overflow: auto;
+}
+.rdw-editor-wrapper {
+  border: 1px solid gray;
+  height: 90%;
+}
+.rdw-editor-main {
+  height: 90%;
+  overflow: auto;
+  padding: 15px;
+}
+
+.DraftEditor-root {
+  height: 100%;
+}
